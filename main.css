@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    padding: 14px;
+    font: bold 40px/40px helvetica
+  }
+  
+  h1 {
+    font-size: 30px
+  }
+  
+  ul {
+    list-style-type: none;
+    margin-bottom: 28px;
+  }
+  
+  li {
+    margin-bottom: 7px;
+    padding: 14px;
+    background: tomato;
+    color: green;
+  cursor: pointer;
+  border: solid 1px black;
+}
+
+li:hover {
+  background:gold;
+  color: black;
+}
