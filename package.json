@@ -1,0 +1,21 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "karma": "^4.4.1",
+    "karma-chrome-launcher": "^3.1.0",
+    "karma-firefox-launcher": "^1.2.0",
+    "karma-ie-launcher": "^1.0.0",
+    "karma-jasmine": "^2.0.1",
+    "karma-opera-launcher": "^1.0.0",
+    "karma-safari-launcher": "^1.0.0"
+  }
+}
